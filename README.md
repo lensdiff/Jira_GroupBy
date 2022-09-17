@@ -10,4 +10,4 @@ JIRA GroupBy was created to solve the lack of a group by in the backlog page. Th
 4. If you have feature requests, feel free to email me at lensdiff@gmail.com.
 
 
-If you find the extension useful, consider donating to me so I can keep up with JIRA changes and implement new feature requests :)
+If you find the extension useful, consider [donating](https://buy.stripe.com/9AQ9BU5nr9LU8xy8ww) to me so I can keep up with JIRA changes and implement new feature requests :)
